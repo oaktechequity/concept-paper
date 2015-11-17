@@ -1,3 +1,7 @@
+**Table of Contents**
+
+[Summary](https://github.com/oaktechequity/concept-paper#concept-paper)
+
 # concept-paper
 TechEquity concept paper describing an integrated strategy to address the digital equity crisis in Oakland &amp; the East Bay.
 
