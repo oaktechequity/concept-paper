@@ -2,6 +2,15 @@
 
 [Summary](https://github.com/oaktechequity/concept-paper#concept-paper)
 
+[I. The Digital Equity Crisis in Oakland and the East Bay](https://github.com/oaktechequity/concept-paper/blob/master/Section-1-Digital-Equity-Crisis-in-Oakland-and-the-East-Bay.md)
+
+[II. Organizations Addressing the Digital Equity Crisis](https://github.com/oaktechequity/concept-paper/blob/master/Section-2-Organizations-Addressing-the-Digital-Equity-Crisis.md)
+
+[III. Strategic Framework for the TechEquity Initiative](https://github.com/oaktechequity/concept-paper/blob/master/Section-3-Strategic-Framework-for-the-TechEquity-Initiative.md)
+
+[IV. Initial TechEquity Projects](https://github.com/oaktechequity/concept-paper/blob/master/Section-4-Initial-TechEquity-Projects.md)
+
+
 # concept-paper
 TechEquity concept paper describing an integrated strategy to address the digital equity crisis in Oakland &amp; the East Bay.
 
