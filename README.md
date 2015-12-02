@@ -1,25 +1,3 @@
-**Table of Contents**
-
-
-[Summary](https://github.com/oaktechequity/concept-paper#concept-paper)
-
-I. [The Digital Equity Crisis in Oakland and the East Bay](https://github.com/oaktechequity/concept-paper/blob/master/Section-1-Digital-Equity-Crisis-in-Oakland-and-the-East-Bay.md)
-
-II. [Organizations Addressing the Digital Equity Crisis](https://github.com/oaktechequity/concept-paper/blob/master/Section-2-Organizations-Addressing-the-Digital-Equity-Crisis.md)
-
-III. [Strategic Framework for the TechEquity Initiative](https://github.com/oaktechequity/concept-paper/blob/master/Section-3-Strategic-Framework-for-the-TechEquity-Initiative.md)
-
-IV. [Initial TechEquity Projects](https://github.com/oaktechequity/concept-paper/blob/master/Section-4-Initial-TechEquity-Projects.md)
-
-V. [Structure and Roles](https://github.com/oaktechequity/concept-paper/blob/master/Section-5-Structure-and-Roles.md)
-
-VI. [Timeline](https://github.com/oaktechequity/concept-paper/blob/master/Section-6-Timeline.md)
-
-VII. [Conclusion](https://github.com/oaktechequity/concept-paper/blob/master/Section-7-Conclusion.md)
-
-Appendix 1. [A Listing of Organizations Addressing the Digital Equity Crisis](https://github.com/oaktechequity/concept-paper/blob/master/Section-8-Appendix-1-A-Listing-of-Organizations.md)
-
-
 # concept-paper
 TechEquity concept paper describing an integrated strategy to address the digital equity crisis in Oakland &amp; the East Bay.
 
@@ -55,3 +33,27 @@ professional skills.
 
 
 The goal of this TechEquity Initiative is to assist as many as possible of under-resourced Oakland and, subsequently, East Bay students—particularly students of color—to acquire digital literacy, move to digital mastery, and, if appropriate, explore a tech career pathway leading to an internship, a job, and, perhaps, tech entrepreneurship
+
+***
+
+
+#**Table of Contents**
+
+
+[Summary](https://github.com/oaktechequity/concept-paper#concept-paper)
+
+I. [The Digital Equity Crisis in Oakland and the East Bay](https://github.com/oaktechequity/concept-paper/blob/master/Section-1-Digital-Equity-Crisis-in-Oakland-and-the-East-Bay.md)
+
+II. [Organizations Addressing the Digital Equity Crisis](https://github.com/oaktechequity/concept-paper/blob/master/Section-2-Organizations-Addressing-the-Digital-Equity-Crisis.md)
+
+III. [Strategic Framework for the TechEquity Initiative](https://github.com/oaktechequity/concept-paper/blob/master/Section-3-Strategic-Framework-for-the-TechEquity-Initiative.md)
+
+IV. [Initial TechEquity Projects](https://github.com/oaktechequity/concept-paper/blob/master/Section-4-Initial-TechEquity-Projects.md)
+
+V. [Structure and Roles](https://github.com/oaktechequity/concept-paper/blob/master/Section-5-Structure-and-Roles.md)
+
+VI. [Timeline](https://github.com/oaktechequity/concept-paper/blob/master/Section-6-Timeline.md)
+
+VII. [Conclusion](https://github.com/oaktechequity/concept-paper/blob/master/Section-7-Conclusion.md)
+
+Appendix 1. [A Listing of Organizations Addressing the Digital Equity Crisis](https://github.com/oaktechequity/concept-paper/blob/master/Section-8-Appendix-1-A-Listing-of-Organizations.md)
